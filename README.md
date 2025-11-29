@@ -6,7 +6,7 @@ am currently working on x64 version so any one want to help dm me
 
 developer build is now avilbale 
 
-you can get it from here!
+you can get it from (here)[https://mega.nz/file/PI00xChC#CrdoJ5nqLb9EnKIL3UKrFkGLgBZW7qAJ0sM_Q1k_XvU]!
 
 it currently live iso only without installation so you can test it only
 
