@@ -7,10 +7,9 @@ With support for both **x86_64** and **ARM64**, and offering **KDE Plasma** and 
 ---
 
 ## 🖥️ Screenshots
-> Add your images in a folder like `assets/` and update these paths.
 
-### Logo  
-<img src="assets/logo.png" width="180"/>
+
+
 
 ### Desktop Preview  
 <img src="assets/desktop.png"/>
