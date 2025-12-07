@@ -54,10 +54,7 @@ It is an early developer build intended for:
 
 | Version | Architecture | Status | Download |
 |---------|--------------|---------|----------|
-| **NexaOS 0.1 (Developer Build)** | x86_64 | Available | [Download](https://archive.org/download/nexaos-0.1-dev/nexaos-0.1.iso) |
-| **NexaOS 0.1 (Developer Build)** | ARM64 | Available | [Download](https://archive.org/download/nexaos-0.1-dev/nexaos-0.1-arm64.iso) |
-
-> If you only uploaded one ISO, remove the row that does not apply.
+| **NexaOS 0.1 (Developer Build)** | x86_64 | Unavilable |
 
 ---
 
