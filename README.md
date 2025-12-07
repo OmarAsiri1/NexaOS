@@ -12,7 +12,7 @@ With support for both **x86_64** and **ARM64**, and offering **KDE Plasma** and 
 
 
 ### Desktop Preview  
-<img src="assets/desktop.png"/>
+<img src="desktop.png"/>
 
 ---
 
