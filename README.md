@@ -54,7 +54,7 @@ It is an early developer build intended for:
 
 | Version | Architecture | Status | Download |
 |---------|--------------|---------|----------|
-| **NexaOS 0.1 (Developer Build)** | x86_64 | Unavilable |
+| **NexaOS 0.1 (Developer Build)** | x86_64 | [Download Iso](https://mega.nz/file/PI00xChC#CrdoJ5nqLb9EnKIL3UKrFkGLgBZW7qAJ0sM_Q1k_XvU) |
 
 ---
 
