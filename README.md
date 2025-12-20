@@ -1,4 +1,4 @@
-# 🌟 NexaOS
+# 🌟 NexaOS 0.1
 **Give Old Devices New Life.**
 
 NexaOS is a lightweight, fast, and modern **Debian-based Linux distribution** designed to restore performance on aging hardware while still delivering a smooth experience on new systems.  
