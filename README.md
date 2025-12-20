@@ -5,6 +5,11 @@ NexaOS is a lightweight, fast, and modern **Debian-based Linux distribution** de
 With support for both **x86_64** and **ARM64**, and offering **KDE Plasma** and **GNOME**, NexaOS blends speed, beauty, and stability.
 
 ---
+## Updates 
+Now Developer Build 2 is Avilable with few major changes
+**1- Xfce4 is Avilable but still preaty simple**
+**2- Now With The All new CLI Version for low-end Personal Computers And Emulators**
+---
 
 ## 🖥️ Screenshots
 
@@ -51,9 +56,10 @@ It is an early developer build intended for:
 ⚠️ **Not recommended for daily use yet.**
 
 ### 📦 Downloads (Mega)
-| Version       | Architecture | Status             | Download |
-|---------------|--------------|------------------|----------|
-| **NexaOS 0.1** | x86_64       | Developer Build 0.1 | [Download Iso](https://mega.nz/file/PI00xChC#CrdoJ5nqLb9EnKIL3UKrFkGLgBZW7qAJ0sM_Q1k_XvU) |
+| Version       | Architecture | DE | Status             | Download |
+|---------------|--------------|-------------------------|----------|
+| **NexaOS 0.1** | x86_64      |KDE | Developer Build 0.1 | [Download](https://mega.nz/file/PI00xChC#CrdoJ5nqLb9EnKIL3UKrFkGLgBZW7qAJ0sM_Q1k_XvU) |
+| **NexaOS 0.2**   | x86_64      |Xfce| Developer Build 0.2 | [Download](https://mega.nz/file/aU0gHa6K#GB5cVc4mr2V4pponVlUX4zg6rF9NFArcI5exf__9HzU) |
 ---
 
 # 💿 How to Install NexaOS
