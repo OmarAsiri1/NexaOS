@@ -56,10 +56,10 @@ It is an early developer build intended for:
 ⚠️ **Not recommended for daily use yet.**
 
 ### 📦 Downloads (Mega)
-| Version       | Architecture | DE | Status             | Download |
-|---------------|--------------|-------------------------|----------|
-| **NexaOS 0.1** | x86_64      |KDE | Developer Build 0.1 | [Download](https://mega.nz/file/PI00xChC#CrdoJ5nqLb9EnKIL3UKrFkGLgBZW7qAJ0sM_Q1k_XvU) |
-| **NexaOS 0.2**   | x86_64      |Xfce| Developer Build 0.2 | [Download](https://mega.nz/file/aU0gHa6K#GB5cVc4mr2V4pponVlUX4zg6rF9NFArcI5exf__9HzU) |
+| Version        | Architecture | DE | Status             | Download |
+|----------------|--------------|----|--------------------|----------|
+| **NexaOS 0.1** | x86_64       |KDE | Developer Build 0.1 | [Download](https://mega.nz/file/PI00xChC#CrdoJ5nqLb9EnKIL3UKrFkGLgBZW7qAJ0sM_Q1k_XvU) |
+| **NexaOS 0.2** | x86_64       |Xfce| Developer Build 0.2 | [Download](https://mega.nz/file/aU0gHa6K#GB5cVc4mr2V4pponVlUX4zg6rF9NFArcI5exf__9HzU) |
 ---
 
 # 💿 How to Install NexaOS
