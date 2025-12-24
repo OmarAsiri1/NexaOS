@@ -17,7 +17,8 @@ Now Developer Build 2 is Avilable with few major changes
 
 
 ### Desktop Preview  
-<img src="desktop.png"/>
+
+No hint for 0.3 for u today 😏
 
 ---
 
