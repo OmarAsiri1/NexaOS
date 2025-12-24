@@ -7,8 +7,8 @@ With support for both **x86_64** and **ARM64**, and offering **KDE Plasma** and 
 ---
 ## Updates 
 Now Developer Build 2 is Avilable with few major changes
-**1- Xfce4 is Avilable but still preaty simple**
-**2- Now With The All new CLI Version for low-end Personal Computers And Emulators**
+- Xfce4 is Avilable but still preaty simple
+- Now With The All new CLI Version for low-end Personal Computers And Emulators
 ---
 
 ## 🖥️ Screenshots
